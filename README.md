@@ -1,5 +1,5 @@
 👋 Hi there! Welcome to my Full Stack Developer portfolio!
-🛠️ This portfolio was built with React, Vite, and Bootstrap.
+🛠️ This portfolio was built with Javascript,HTML,CSS and Bootstrap.
 
 👨‍💻 As a Full Stack Developer, I have experience in both front-end and back-end development. I am proficient in HTML, CSS, JavaScript, Node.js, and PostreSQL. I am also experienced in using popular frameworks and libraries such as React and Express.
 
